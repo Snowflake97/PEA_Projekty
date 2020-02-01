@@ -1,0 +1,18 @@
+Algorytm: branch&bound
+Ilosc miast: 7
+Seria wykonan(150 lacznie, czas liczony dla 100)
+
+0 98 66 28 2 8 21 
+98 0 89 116 113 93 2 
+66 89 0 84 7 12 88 
+28 116 84 0 30 110 116 
+2 113 7 30 0 105 105 
+8 93 12 110 105 0 109 
+21 2 88 116 105 109 0 
+
+
+Sciezka : [0, 5, 2, 4, 3, 1, 6, 0]
+Koszt: 196
+Iteracje : 17
+Czas dla pojedynczego wykonania algorytmu: 0.006761799999999596 sekund
+Usredniony czas - pojedyncze wykonanie: 0.00686825199999987 sekund

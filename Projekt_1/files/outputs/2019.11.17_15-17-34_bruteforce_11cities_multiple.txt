@@ -1,0 +1,23 @@
+Algorytm: bruteforce
+Ilosc miast: 11
+Seria wykonan(150 lacznie, czas liczony dla 100)
+
+0 59 59 128 57 108 96 11 41 97 109 
+59 0 98 115 125 67 23 108 34 55 96 
+59 98 0 11 20 55 109 98 12 123 111 
+128 115 11 0 118 113 15 35 125 41 40 
+57 125 20 118 0 44 105 42 29 87 43 
+108 67 55 113 44 0 117 18 53 16 57 
+96 23 109 15 105 117 0 61 2 67 42 
+11 108 98 35 42 18 61 0 81 92 71 
+41 34 12 125 29 53 2 81 0 53 106 
+97 55 123 41 87 16 67 92 53 0 120 
+109 96 111 40 43 57 42 71 106 120 0 
+
+
+Sprawdzono 11 iteracji (na 150) 
+Sciezka : [0, 1, 6, 8, 2, 4, 10, 3, 9, 5, 7, 0]
+Koszt: 285
+Iteracje: 9864101
+Czas dla pojedynczego wykonania algorytmu: 25.300181899999984 sekund
+Usredniony czas - pojedyncze wykonanie: 0.0 sekund

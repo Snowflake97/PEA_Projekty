@@ -1,7 +1,7 @@
 # PEA_Projekty
 
-TSP:
+TSP:<br />
 
-Projekt_1 - Branch and Bound, Bruteforce\n
-Projekt_2 - Simulated Annealing, Tabu Search\n
-Projekt_3 - Genetic Algorithm\n
+Projekt_1 - Branch and Bound, Bruteforce <br />
+Projekt_2 - Simulated Annealing, Tabu Search <br />
+Projekt_3 - Genetic Algorithm <br />
